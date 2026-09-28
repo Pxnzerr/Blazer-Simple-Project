@@ -1,5 +1,7 @@
 # Blazer Simple Project
 
-Projeto de interface/HUD simples desenvolvido com Blazor WebAssembly.
+Projeto de interface/HUD simples desenvolvido com Blazor WebAssembly (.NET / C#).
 
-<!-- update -->
+## Visão Geral
+
+Interface gráfica minimalista voltada para exibição de status e HUD limpo em aplicações web.
